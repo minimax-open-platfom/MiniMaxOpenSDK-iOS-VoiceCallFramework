@@ -6,51 +6,51 @@
 	<dict>
 		<key>Headers/MinimaxOpenVoiceCallSDK-Swift.h</key>
 		<data>
-		XRBV4jqq9+VkYTmyczvCAlvrdDQ=
+		TXW11c6BTFouKcQCtfJk9Ff1r1Y=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rrEgkNaS3PAn85LJU8eup2veuaQ=
+		DPLCBeehgSc/gsUTxfWCj6vVePE=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		1T6zdu15NgpMi6A1vOTJfZikOyc=
+		sAgtej0rFuOk7pFy/yr1xCQwDK4=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		l/h+7JTpUCZucPo58FtLt+7dIvI=
+		j5UgjYSmji/OmvLar3dyTCxKs+Q=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LCh5G0ndYekewkyvU1VK87DSVbg=
+		wfGOHBEVwku76kMAquFynhbrksk=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		l/h+7JTpUCZucPo58FtLt+7dIvI=
+		j5UgjYSmji/OmvLar3dyTCxKs+Q=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QPRGs0JcTlfuD5Bd0GP5fEwW0BQ=
+		JjZF30MndAYBItAOqOAuxVDAnBM=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		1T6zdu15NgpMi6A1vOTJfZikOyc=
+		sAgtej0rFuOk7pFy/yr1xCQwDK4=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SDTIhWixRW7d2q8nSZcBQIzp1B4=
+		+3hgA2D32gNm+OcH2Wnx8hi6O0w=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RYKlgk+mQOmvqdSbegjz4RWIDzU=
+		WbghZh6rhYvH8p/UVRch/vcxWbk=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SDTIhWixRW7d2q8nSZcBQIzp1B4=
+		+3hgA2D32gNm+OcH2Wnx8hi6O0w=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Dn0B7+QhC6XsmYfRaHEMMc5zk40=
+		XmV4TRTpyKA+cf0NZTon+YQ7s74=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,121 +63,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XRBV4jqq9+VkYTmyczvCAlvrdDQ=
+			TXW11c6BTFouKcQCtfJk9Ff1r1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			njh9HgVMRzUOiWyTqAI11ewp/UWajbYCVVhxd4kwRC4=
+			tkh01Q4K7UcdHdJ4k2CNi3820g8NGh8fR/h3nK9sdzQ=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1T6zdu15NgpMi6A1vOTJfZikOyc=
+			sAgtej0rFuOk7pFy/yr1xCQwDK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tMjWSpON3aMU2n2Bfj1pcukeXqbwRobZn9RymeeVxZQ=
+			z/TZEM3KWyMSSUaVfFcCliQxclG7qgL8goKHjthzjck=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l/h+7JTpUCZucPo58FtLt+7dIvI=
+			j5UgjYSmji/OmvLar3dyTCxKs+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			X3Tj1Oh+lBtyakKNSlTOledZ9e0UI2lbDWg9pSwi1wo=
+			hu/JLm22lCrf2uL4XfivZ8YfEC4BqsxIz4qc6dFBr4g=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LCh5G0ndYekewkyvU1VK87DSVbg=
+			wfGOHBEVwku76kMAquFynhbrksk=
 			</data>
 			<key>hash2</key>
 			<data>
-			P/EQfuPpjt3+e0XwfiC9m+9p9ug9jVq2YYW8Qo7sN8k=
+			KzbOTJ6gimK0K7OPNTvAEk89p83JlO99EauLWVekmq4=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l/h+7JTpUCZucPo58FtLt+7dIvI=
+			j5UgjYSmji/OmvLar3dyTCxKs+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			X3Tj1Oh+lBtyakKNSlTOledZ9e0UI2lbDWg9pSwi1wo=
+			hu/JLm22lCrf2uL4XfivZ8YfEC4BqsxIz4qc6dFBr4g=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QPRGs0JcTlfuD5Bd0GP5fEwW0BQ=
+			JjZF30MndAYBItAOqOAuxVDAnBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			KQb/jYn+ztjR7MXGW+UkQnoKqrnIdJ12VWjzYBH+OkA=
+			LfwI6ipb2BoUnBbWeSTaqJOMXd0dxou8MH8hxrJBnyw=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1T6zdu15NgpMi6A1vOTJfZikOyc=
+			sAgtej0rFuOk7pFy/yr1xCQwDK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tMjWSpON3aMU2n2Bfj1pcukeXqbwRobZn9RymeeVxZQ=
+			z/TZEM3KWyMSSUaVfFcCliQxclG7qgL8goKHjthzjck=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SDTIhWixRW7d2q8nSZcBQIzp1B4=
+			+3hgA2D32gNm+OcH2Wnx8hi6O0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			htNxGONo1hDu1XkXP0TCwnDMEGzVt2Z3Ot5zUsjhF7Y=
+			GrK9EW6wzOYG2Jj0EtiZSF9MDaBIgHpw0h9DzaQt040=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RYKlgk+mQOmvqdSbegjz4RWIDzU=
+			WbghZh6rhYvH8p/UVRch/vcxWbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wdfMqNFQWsKNbX3jY3wes/DZ0gJllZCLFJnjDcgnop0=
+			7d3cqLxd1ew1yLE9pxD88oBH1VlDqXEyoXb/0taSnIo=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SDTIhWixRW7d2q8nSZcBQIzp1B4=
+			+3hgA2D32gNm+OcH2Wnx8hi6O0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			htNxGONo1hDu1XkXP0TCwnDMEGzVt2Z3Ot5zUsjhF7Y=
+			GrK9EW6wzOYG2Jj0EtiZSF9MDaBIgHpw0h9DzaQt040=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dn0B7+QhC6XsmYfRaHEMMc5zk40=
+			XmV4TRTpyKA+cf0NZTon+YQ7s74=
 			</data>
 			<key>hash2</key>
 			<data>
-			f3mxJdBTOSlEIePCeAl9RRzgq4ssgYTbnBcPJTmmEUs=
+			NbW0zSKC2UJqni6DK1Tu0xFGXZVAB7IDJxOBiiVEeDQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

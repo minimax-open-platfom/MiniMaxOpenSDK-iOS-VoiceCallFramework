@@ -6,31 +6,31 @@
 	<dict>
 		<key>Headers/MinimaxOpenVoiceCallSDK-Swift.h</key>
 		<data>
-		gKDV2mgIf7xh4sT5dmapCa8qdBY=
+		1v6tl5ka1+ltzYQTFYJGNeaj1eM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tSoF9lDX1iF4n/uHcLAStmKkCXw=
+		fB/XvWsxyo2J3sUVBuus2Y+KQFs=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		1T6zdu15NgpMi6A1vOTJfZikOyc=
+		sAgtej0rFuOk7pFy/yr1xCQwDK4=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		yatEWmG4zOFo8eWsfl+vtmUvDXQ=
+		dz1MXv5ca/VisBRl5Gy+DW/7aKQ=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		u1Wi/0MgoKgd/DMNJglbRXZolLY=
+		LxpNbCcf88ww04NNE42XQqthqgw=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		yatEWmG4zOFo8eWsfl+vtmUvDXQ=
+		dz1MXv5ca/VisBRl5Gy+DW/7aKQ=
 		</data>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		UmE5GwrgoR5Ym97DK95sSduy30s=
+		LC9FzEmWSsXk/o3/aOSnENLYvX8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,66 +43,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gKDV2mgIf7xh4sT5dmapCa8qdBY=
+			1v6tl5ka1+ltzYQTFYJGNeaj1eM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3OLbVh3g1tFlhFp1K4zqYb2iovpqiKpnqwXnfl+5j4Y=
+			r7Hl9kQmV3jJ47EeJnijUUSK9w8A14bvGxP2RB4mEno=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1T6zdu15NgpMi6A1vOTJfZikOyc=
+			sAgtej0rFuOk7pFy/yr1xCQwDK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tMjWSpON3aMU2n2Bfj1pcukeXqbwRobZn9RymeeVxZQ=
+			z/TZEM3KWyMSSUaVfFcCliQxclG7qgL8goKHjthzjck=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yatEWmG4zOFo8eWsfl+vtmUvDXQ=
+			dz1MXv5ca/VisBRl5Gy+DW/7aKQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+9d7qAzPIIL/bbtleNpUFSmovhxIf7RwmiN6zdn+xaQ=
+			WCrpHD3Ni6d0X6b8BqWJWygEwFiQW9QBPg36LsyXquI=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u1Wi/0MgoKgd/DMNJglbRXZolLY=
+			LxpNbCcf88ww04NNE42XQqthqgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5Rt9oH4sPrah6bsrwDV58uUbuMGPtq0n8pAa05bfMAI=
+			W7EGVl3JU7lsWCCnd7rd2w2LH8ews5mjpq+ce6Nyh9Y=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yatEWmG4zOFo8eWsfl+vtmUvDXQ=
+			dz1MXv5ca/VisBRl5Gy+DW/7aKQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+9d7qAzPIIL/bbtleNpUFSmovhxIf7RwmiN6zdn+xaQ=
+			WCrpHD3Ni6d0X6b8BqWJWygEwFiQW9QBPg36LsyXquI=
 			</data>
 		</dict>
 		<key>Modules/MinimaxOpenVoiceCallSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UmE5GwrgoR5Ym97DK95sSduy30s=
+			LC9FzEmWSsXk/o3/aOSnENLYvX8=
 			</data>
 			<key>hash2</key>
 			<data>
-			g5oUhQ8ZqvVAguEuO6aQGSnyUTcdLUvaURbYWdomcr0=
+			TI7efFo/yBnaM6flIp0hYlhhAmB69dvQ3x2jvqVC4wE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
